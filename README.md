@@ -11,7 +11,7 @@ El repositorio se organiza en el archivo de Licencia, este fichero README.md y l
 
 /doc Donde está la versión PDF de esta documentación.
 
-/csv Ficheros CSV generados con el script. 
+* wine-quality Ficheros CSV generados con el script. 
 
 Miembros del equipo
 
